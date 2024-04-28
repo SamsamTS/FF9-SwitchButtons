@@ -6,8 +6,8 @@
 	<Author>SamsamTS</Author>
 	<Description>Replace Xbox buttons with the Nintendo Switch buttons.</Description>
 	<Category>Visual</Category>
-	<Website>https://github.com/SamsamTS/FF9-DualsenseButtons/</Website>
-	<DownloadUrl>https://github.com/SamsamTS/FF9-DualsenseButtons/releases/download/Main/DualsenseButtons.zip</DownloadUrl>
+	<Website>https://github.com/SamsamTS/FF9-SwitchButtons/</Website>
+	<DownloadUrl>https://github.com/SamsamTS/FF9-DualsenseButtons/releases/download/Main/SwitchButtons.zip</DownloadUrl>
 	<PreviewFile>PreviewImage.jpg</PreviewFile>
-	<PreviewFileUrl>https://raw.githubusercontent.com/SamsamTS/FF9-DualsenseButtons/main/PreviewImage.jpg</PreviewFileUrl>
+	<PreviewFileUrl>https://raw.githubusercontent.com/SamsamTS/FF9-SwitchButtons/main/PreviewImage.jpg</PreviewFileUrl>
 </Mod>
